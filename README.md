@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-rafaelkrj-red.svg)](https://www.linkedin.com/in/rafael-vieira-bonangelo/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelkrj)
 
 <p align="center">
-  <img src="banner_github.png" width = "100%" height = "220">
+  <img src="banner_github.png" width = "100%" height = "230">
 </p>
 
 I’m Rafael. I have a Bachelor’s and a Master’s degree in Mathematics, and I am now transitioning into the Data field. I want to use my analytical background to work with data and create clear and meaningful insights.
@@ -18,5 +18,6 @@ Thank you for visiting my GitHub.
 * [LinkedIn](https://www.linkedin.com/in/rafael-vieira-bonangelo/)
 
 
-## Projetos:
-My projects:
+## My projects:
+
+* **Exploring Airbnb Prices in Madrid Spain**: https://encurtador.com.br/qwRD
