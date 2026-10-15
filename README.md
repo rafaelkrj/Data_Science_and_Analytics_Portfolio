@@ -20,4 +20,4 @@ Thank you for visiting my GitHub.
 
 ## My projects:
 
-* **Exploring Airbnb Prices in Madrid Spain**: [https://encurtador.com.br/qwRD](https://encurtador.com.br/NkAD)
+* **Exploring Airbnb Prices in Madrid Spain**: [Link](https://colab.research.google.com/drive/1euAVycJaRl5DdKLexBVmY5-G9_fxio-C?usp=sharing)
