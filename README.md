@@ -4,15 +4,25 @@
   <img src="banner_github.png" width = "100%" height = "250">
 </p>
 
-I’m Rafael. I have a Bachelor’s and a Master’s degree in Mathematics, and I am now transitioning into the Data field. I want to use my analytical background to work with data and create clear and meaningful insights.
+## About Me
 
-I study data analysis using Python, working mainly with Pandas, Matplotlib and Seaborn. My work involves exploring datasets, cleaning information and creating visualizations to uncover patterns. I am also beginning to study Data Science, and learning how data analysis helps build better models as I grow in this field.
+Hi! I'm Rafael, a Data Analyst and University Lecturer based in São Paulo, Brazil.
 
-My years as a teacher helped me develop strong communication, problem-solving and attention to detail. These skills support my work as I build new data projects and continue growing in this field.
+I hold a Master's degree in Mathematics Education and a Bachelor's-level teaching degree in Mathematics from the University of São Paulo (USP). My background combines Mathematics, Statistics, Programming, and Education.
 
-Thank you for visiting my GitHub.
+I currently work with educational data analysis, focusing on data processing, statistical analysis, indicator development, data quality assessment, and interpreting information from multiple sources to support decision-making.
 
-**Background in:** Python, Pandas, Matplotlib, Seaborn, Statistics
+I also teach undergraduate courses in Computer Science, Artificial Intelligence, Information Systems, and Software Development, covering topics such as Python programming, algorithms, Machine Learning, and computational methods.
+
+My technical background includes Python, Pandas, Matplotlib, Seaborn, Statistics, and Machine Learning. I have also worked with Python automation and educational information systems.
+
+Through this GitHub profile, I share projects involving exploratory data analysis, data visualization, and practical applications of programming and statistics.
+
+**Technical Skills:** Python, Pandas, Matplotlib, Seaborn, Statistics, Machine Learning, Git, GitHub.
+
+**Areas of Interest:** Data Science, Data Analytics, Artificial Intelligence, and Python Automation.
+
+Thank you for visiting my GitHub!
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rafael-vieira-bonangelo/)
